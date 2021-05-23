@@ -15,11 +15,11 @@ C:/Users/kp703/Documents/GitHub/pokoj/Pokoj
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50086
+65475
 Successfully changed project path to: C:/Users/kp703/Documents/GitHub/pokoj/Pokoj
 C:/Users/kp703/Documents/GitHub/pokoj/Pokoj
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 25.63 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 25.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,72 +35,1488 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002453 seconds.
+Registered in 0.002403 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 25.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.67 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.257 seconds
+- Completed reload, in  1.982 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000796 seconds.
+Registered in 0.000962 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.929 seconds
+- Completed reload, in  0.838 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 57.0 MB.
-System memory in use after: 57.0 MB.
+System memory in use after: 57.1 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
-Total: 3.351700 ms (FindLiveObjects: 0.329000 ms CreateObjectMapping: 0.826600 ms MarkObjects: 2.114200 ms  DeleteObjects: 0.080300 ms)
+Total: 1.768500 ms (FindLiveObjects: 0.131000 ms CreateObjectMapping: 0.039600 ms MarkObjects: 1.482900 ms  DeleteObjects: 0.113900 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Meshes/scena.FBX
-  artifactKey: Guid(c6b6b777aeb450a4592e085f8532af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/scena.FBX using Guid(c6b6b777aeb450a4592e085f8532af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46f8838e99967b6a24e6100e18af8d3') in 0.275776 seconds
-  Import took 0.277914 seconds .
+  path: Assets/Meshes/Structure_Bathroom_Cabinet_Sink.mtl
+  artifactKey: Guid(58ff5550e23bc37498e9f07f794c2532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Structure_Bathroom_Cabinet_Sink.mtl using Guid(58ff5550e23bc37498e9f07f794c2532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c1727962e19deb5a1669e04cc68239') in 0.032396 seconds
+  Import took 0.034370 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001294 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.805 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 60.5 MB.
-System memory in use after: 60.5 MB.
+Received Import Request.
+  Time since last request: 15.867665 seconds.
+  path: Assets/Meshes/Models
+  artifactKey: Guid(5a766537c20a1f04e8aa16a51ee80fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models using Guid(5a766537c20a1f04e8aa16a51ee80fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf940197c550c32b7452c6ced0d4f2e') in 0.008830 seconds
+  Import took 0.011631 seconds .
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1601.
-Total: 1.529800 ms (FindLiveObjects: 0.122700 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.289700 ms  DeleteObjects: 0.083600 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 18.545061 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj
+  artifactKey: Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj using Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dd79aa312fb853d979f0bf69208cd6') in 0.388536 seconds
+  Import took 0.391333 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 59.369396 seconds.
+  path: Assets/Meshes/Models/Prop_Exterior_Shutter_Raised_Panel.obj
+  artifactKey: Guid(06af152fccd459a48ab25ea7b59b67f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Exterior_Shutter_Raised_Panel.obj using Guid(06af152fccd459a48ab25ea7b59b67f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686d35bf59b218c725b637913db67bdf') in 0.030369 seconds
+  Import took 0.033627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Meshes/Models/Structure_Ceiling_Beam_Angled.obj
+  artifactKey: Guid(0413880878a1c5d4ebd12417246eceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Ceiling_Beam_Angled.obj using Guid(0413880878a1c5d4ebd12417246eceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcc18e8e25d19070b1f0ba566870c7c') in 0.029032 seconds
+  Import took 0.033808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Bar_Half.obj
+  artifactKey: Guid(056714cb40eaf5944affae0188cfbb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Bar_Half.obj using Guid(056714cb40eaf5944affae0188cfbb8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963cb969381351ecedb9f4026c160a72') in 0.056562 seconds
+  Import took 0.058853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Meshes/Models/Structure_Balcony_3_Edges.obj
+  artifactKey: Guid(b81224ad0034bfb49b3d44146dbfdd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Balcony_3_Edges.obj using Guid(b81224ad0034bfb49b3d44146dbfdd0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b66d3b009a41243ae9c5bd1b811a2dad') in 0.025880 seconds
+  Import took 0.027770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Center_Half.obj
+  artifactKey: Guid(807c3ae7bae6a784290521f1318f4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Center_Half.obj using Guid(807c3ae7bae6a784290521f1318f4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe31bc61d3253849010dbc8c8fcba2f8') in 0.024884 seconds
+  Import took 0.026878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Short.obj
+  artifactKey: Guid(b4fd850c6305359429f76373bda7cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Short.obj using Guid(b4fd850c6305359429f76373bda7cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8805518aeeecfa7c26722ad0ac46b84') in 0.058141 seconds
+  Import took 0.060177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Trashcan.obj
+  artifactKey: Guid(bafb71fea98ddf2478f5ba64ccbf1af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Trashcan.obj using Guid(bafb71fea98ddf2478f5ba64ccbf1af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863e23582f4359991e577d9d64d83272') in 0.025697 seconds
+  Import took 0.027912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Bar_Corner_Outer.obj
+  artifactKey: Guid(56880cba873c937419055677adcdeae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Bar_Corner_Outer.obj using Guid(56880cba873c937419055677adcdeae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60debd05281c4456f0a28d9fbb826f99') in 0.047868 seconds
+  Import took 0.050207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Meshes/Models/Structure_Ceiling_Beam_Straight.obj
+  artifactKey: Guid(e78cbb0af32ddba4bbcbecafd1b31948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Ceiling_Beam_Straight.obj using Guid(e78cbb0af32ddba4bbcbecafd1b31948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b370e666b36e9f1a51ea988ff21ea56f') in 0.023519 seconds
+  Import took 0.025441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Bar_Edge.obj
+  artifactKey: Guid(aafca882fe40fbb4c8e31afcaa6053df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Bar_Edge.obj using Guid(aafca882fe40fbb4c8e31afcaa6053df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6502489e148649cba59a48de2d6a11') in 0.040068 seconds
+  Import took 0.041958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Rug_Rounded_Ends.obj
+  artifactKey: Guid(2b0f3f988f869ed45a7fb1a9c145e99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Rug_Rounded_Ends.obj using Guid(2b0f3f988f869ed45a7fb1a9c145e99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec58dcbf040f0d539a8131154516b34b') in 0.023231 seconds
+  Import took 0.025128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Curved_Outer.obj
+  artifactKey: Guid(e04ecdeab03b4d74ead63c1c4b1d8f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Curved_Outer.obj using Guid(e04ecdeab03b4d74ead63c1c4b1d8f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080b45be7b33b2c8e36945d0da454824') in 0.023152 seconds
+  Import took 0.025263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Meshes/Models/Structure_Balcony_2_Edges_Opposite.obj
+  artifactKey: Guid(aad76b41b57c31844b8addf83d82ba19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Balcony_2_Edges_Opposite.obj using Guid(aad76b41b57c31844b8addf83d82ba19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da1d26fd054b4fcbedb30f2ee9d03fd') in 0.022203 seconds
+  Import took 0.024241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Wall_Straight.obj
+  artifactKey: Guid(f006c85cb8d70a04fb86dcd97449af7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Wall_Straight.obj using Guid(f006c85cb8d70a04fb86dcd97449af7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b4e3e47b2a8b25a9a2f225aae718ec') in 0.022030 seconds
+  Import took 0.024084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Post.obj
+  artifactKey: Guid(7add9a96e3b12064c9212a0a369dd875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Post.obj using Guid(7add9a96e3b12064c9212a0a369dd875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6390c5baa7be8fef107291388b68e0') in 0.022277 seconds
+  Import took 0.024351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Door.obj
+  artifactKey: Guid(3fd8210aca91b8e4b81320b9e9545eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Door.obj using Guid(3fd8210aca91b8e4b81320b9e9545eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5622839c4c4f7710d533d18814a2d41d') in 0.057696 seconds
+  Import took 0.059696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Lamp.obj
+  artifactKey: Guid(fb10a267d0da0974682c7bd166374510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Lamp.obj using Guid(fb10a267d0da0974682c7bd166374510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f9197a75ebcd59d52d9c9a9abfa697') in 0.057159 seconds
+  Import took 0.059175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Meshes/Models/Structure_Balcony_1_Edge.obj
+  artifactKey: Guid(b1fdea2b9d4fd0241bc10e98ea664e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Balcony_1_Edge.obj using Guid(b1fdea2b9d4fd0241bc10e98ea664e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e66eb5acb719db5c9187a71c63c6726') in 0.022670 seconds
+  Import took 0.024794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Meshes/Models/Prop_Fireplace.obj
+  artifactKey: Guid(ff705aadcfffa8d47a782f5e10aea7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Fireplace.obj using Guid(ff705aadcfffa8d47a782f5e10aea7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a9ca7b6a160f22bcb594b4240dd29a') in 0.054654 seconds
+  Import took 0.056750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Doorway.obj
+  artifactKey: Guid(82f88d232a400944f84f430de4b3415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Doorway.obj using Guid(82f88d232a400944f84f430de4b3415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24c66e16fc615e2d8ea2dd1940308a4') in 0.022664 seconds
+  Import took 0.024547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Picture_Square_Large.obj
+  artifactKey: Guid(f8391ba012636e049b53d143fd00c6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Picture_Square_Large.obj using Guid(f8391ba012636e049b53d143fd00c6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c603cbe06211f1f44d792b3c9c4064b') in 0.030982 seconds
+  Import took 0.032868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Center_Eave.obj
+  artifactKey: Guid(37d9d62ad72e64546936f8984d064bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Center_Eave.obj using Guid(37d9d62ad72e64546936f8984d064bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a559278c6dcf625f4d1f0325ca59f94') in 0.022924 seconds
+  Import took 0.024982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Window_Single.obj
+  artifactKey: Guid(f1464d21ac036eb468471e2bd97914e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Window_Single.obj using Guid(f1464d21ac036eb468471e2bd97914e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49616ff3bdea97d377756ae71bbb83e') in 0.037500 seconds
+  Import took 0.039484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Center.obj
+  artifactKey: Guid(3b1b47fe1f8505f47a12335cfb28cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Center.obj using Guid(3b1b47fe1f8505f47a12335cfb28cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf190ee1b35fbfe642014a8519a2b84') in 0.039883 seconds
+  Import took 0.041823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Edge_Half.obj
+  artifactKey: Guid(b6c3a96f642c2f240831aa0b029b9b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Edge_Half.obj using Guid(b6c3a96f642c2f240831aa0b029b9b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f226617ac38eabb27dbe97360a4943f') in 0.023851 seconds
+  Import took 0.025739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Coffee_Table.obj
+  artifactKey: Guid(14ae630e8b22f554caa1a63b19e82275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Coffee_Table.obj using Guid(14ae630e8b22f554caa1a63b19e82275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed8776565cf594c1e2620b9d41cbec8') in 0.023113 seconds
+  Import took 0.025040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV.obj
+  artifactKey: Guid(f1bee9e9effa7f045873ba991629894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV.obj using Guid(f1bee9e9effa7f045873ba991629894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ea86c591a502ee50a3dfc082a47e55') in 0.021944 seconds
+  Import took 0.023896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Window_Double.obj
+  artifactKey: Guid(dd2a9732a4ac49d4ebd65d685c9ac452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Window_Double.obj using Guid(dd2a9732a4ac49d4ebd65d685c9ac452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b7bac00c99cfa3893bdc8935e6c00a') in 0.056988 seconds
+  Import took 0.058915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_5.obj
+  artifactKey: Guid(a3a21efe506a8754298fd01c6477b242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_5.obj using Guid(a3a21efe506a8754298fd01c6477b242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83403977ca632a08554eb9427e984820') in 0.188795 seconds
+  Import took 0.191013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Corner.obj
+  artifactKey: Guid(865334a95aee3e445945e230ea063c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Corner.obj using Guid(865334a95aee3e445945e230ea063c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c4e044173346e846330a920198f0ba') in 0.046144 seconds
+  Import took 0.048068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Half.obj
+  artifactKey: Guid(672b1ca530225ed438f627609f242925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Half.obj using Guid(672b1ca530225ed438f627609f242925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd63b1dd860abb7c1c4778e1694d0be6') in 0.045904 seconds
+  Import took 0.047877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Meshes/Models/Structure_Floor.obj
+  artifactKey: Guid(f65c1d0c143528d439779094bb608ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Floor.obj using Guid(f65c1d0c143528d439779094bb608ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f9f7b01ad7d4a34a983d9694843095') in 0.023975 seconds
+  Import took 0.025815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Edge_Full.obj
+  artifactKey: Guid(0d64dfbc866063c46a57eedc8d2f1ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Edge_Full.obj using Guid(0d64dfbc866063c46a57eedc8d2f1ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd46f92f017e319ac136cfd1c3741bc') in 0.026553 seconds
+  Import took 0.028457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Curved.obj
+  artifactKey: Guid(bc5761c1f74819f4898fe96b2f18c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Curved.obj using Guid(bc5761c1f74819f4898fe96b2f18c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e927371f597fa6ec6100f5a311bc3f') in 0.022172 seconds
+  Import took 0.024346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Full.obj
+  artifactKey: Guid(3a2c25a9a051373469dd97ad5db52820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Full.obj using Guid(3a2c25a9a051373469dd97ad5db52820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56a666122ed69caf074611d302c5414') in 0.097482 seconds
+  Import took 0.099910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Peg.obj
+  artifactKey: Guid(dd69f4ffa6d52044eaf25ff81916e669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Peg.obj using Guid(dd69f4ffa6d52044eaf25ff81916e669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae37a9b1635627d9a587ff8c46c6e771') in 0.024134 seconds
+  Import took 0.026367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Leg_Rest.obj
+  artifactKey: Guid(02a4f14fda96f124e907acfdbadefb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Leg_Rest.obj using Guid(02a4f14fda96f124e907acfdbadefb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a50c95f31bb94524b4d1d000fc9276b') in 0.035988 seconds
+  Import took 0.038423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Ceiling_Light_3.obj
+  artifactKey: Guid(28fb0e457211ebd44b1d46df902c8417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Ceiling_Light_3.obj using Guid(28fb0e457211ebd44b1d46df902c8417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486c212df5b3a822d1eb53e41611d487') in 0.100731 seconds
+  Import took 0.102861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_End.obj
+  artifactKey: Guid(db72e0e32fa7c064a8e24301bc697883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_End.obj using Guid(db72e0e32fa7c064a8e24301bc697883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7eda644ed63b6b66689ed3b2164a4f4') in 0.022913 seconds
+  Import took 0.024804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Picture_Landscape.obj
+  artifactKey: Guid(a498f93e5e13fb947ae2053c252578f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Picture_Landscape.obj using Guid(a498f93e5e13fb947ae2053c252578f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511e52517bcda820348fc21fac63f0a6') in 0.035260 seconds
+  Import took 0.037401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Landing_Corner.obj
+  artifactKey: Guid(9687df04aca49214c81b8f969db72d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Landing_Corner.obj using Guid(9687df04aca49214c81b8f969db72d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d754bdb6844dab272bf5fd3a7941b28') in 0.024787 seconds
+  Import took 0.026734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Curved_Inner.obj
+  artifactKey: Guid(e150ed12731729f45ad7f93443524624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Curved_Inner.obj using Guid(e150ed12731729f45ad7f93443524624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ae7d4bee2fc30c7af17865ed442a54') in 0.022784 seconds
+  Import took 0.024728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Landing_Side.obj
+  artifactKey: Guid(a5300de01bf92cf45bcdf957b3acd921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Landing_Side.obj using Guid(a5300de01bf92cf45bcdf957b3acd921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7872dd1f27974c80949963a888be37d') in 0.039362 seconds
+  Import took 0.041846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Edge_Eave.obj
+  artifactKey: Guid(40cb88394bd0f0e49b05a93c9348dd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Edge_Eave.obj using Guid(40cb88394bd0f0e49b05a93c9348dd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6e3b38fca039b65d822006b14b3eae') in 0.030518 seconds
+  Import took 0.032759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Meshes/Models/Prop_Fireplace_Mid.obj
+  artifactKey: Guid(745f53bc405d1534092e9378c1bcc393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Fireplace_Mid.obj using Guid(745f53bc405d1534092e9378c1bcc393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5274a7427c4019b6e63adf773741ddc3') in 0.028866 seconds
+  Import took 0.031129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Meshes/Models/Prop_Kitchen_Refrigerator.obj
+  artifactKey: Guid(c94523fb79e7ae8408a3eb895729c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Kitchen_Refrigerator.obj using Guid(c94523fb79e7ae8408a3eb895729c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677de223ef792d6f3ff788f79ca1473f') in 0.039646 seconds
+  Import took 0.041970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Meshes/Models/Prop_Kitchen_Oven.obj
+  artifactKey: Guid(73997fff4d64fb447ac0e58d59a857c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Kitchen_Oven.obj using Guid(73997fff4d64fb447ac0e58d59a857c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621ab67698a5be9ed675a4b44bc75f6e') in 0.056961 seconds
+  Import took 0.058948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Tile_Wall.obj
+  artifactKey: Guid(b78b1d1e4509e0e46bf654f6e5300568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Tile_Wall.obj using Guid(b78b1d1e4509e0e46bf654f6e5300568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d87ca8808df0189681ab2551156cc8c') in 0.024783 seconds
+  Import took 0.026861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Picture_Portrait.obj
+  artifactKey: Guid(a3ecd7d6a85b5f2409af84dafcd20d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Picture_Portrait.obj using Guid(a3ecd7d6a85b5f2409af84dafcd20d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234665020caa65c654e31f4740e1356c') in 0.036583 seconds
+  Import took 0.038746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Side_Table.obj
+  artifactKey: Guid(1a9c4afde80ce244791b1fdeba5b547b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Side_Table.obj using Guid(1a9c4afde80ce244791b1fdeba5b547b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c760bea8da283dff97be131b4d00cc') in 0.047090 seconds
+  Import took 0.049045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Open.obj
+  artifactKey: Guid(c44437dfaff92e1419212ba1bba6a7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Open.obj using Guid(c44437dfaff92e1419212ba1bba6a7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94eccc0b57507e41f0fb9366fd2ecae3') in 0.047209 seconds
+  Import took 0.049156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Doorway_Sidelight.obj
+  artifactKey: Guid(b47a5c6f1de5bb74fbfbedb06eefc4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Doorway_Sidelight.obj using Guid(b47a5c6f1de5bb74fbfbedb06eefc4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe667acf96b563d22940d5141ae092e') in 0.024085 seconds
+  Import took 0.026488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Meshes/Models/Structure_Balcony_2_Edges_Corner.obj
+  artifactKey: Guid(25823bbd1eb2db345b6e051e74d6b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Balcony_2_Edges_Corner.obj using Guid(25823bbd1eb2db345b6e051e74d6b0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7cd9ea81e79e6bb60648c74368b63f') in 0.022794 seconds
+  Import took 0.024763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Half.obj
+  artifactKey: Guid(db1ad933489c829489f90df1a3009fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Half.obj using Guid(db1ad933489c829489f90df1a3009fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b5b921a0dfa6a3b7de94138b829fcd') in 0.062350 seconds
+  Import took 0.064358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Side_Shelves.obj
+  artifactKey: Guid(0dfbdf83d1b92724abae65df7dcbf982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Side_Shelves.obj using Guid(0dfbdf83d1b92724abae65df7dcbf982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f906997dac9ec7a6030be370a3bdc08d') in 0.046145 seconds
+  Import took 0.049560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Meshes/Models/Structure_Roof_Center_Full.obj
+  artifactKey: Guid(fab09ab868ea4464e9f7df9250db35f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Roof_Center_Full.obj using Guid(fab09ab868ea4464e9f7df9250db35f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aee9612036341243856e4b27ab1b0d7') in 0.031310 seconds
+  Import took 0.033894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Full.obj
+  artifactKey: Guid(e706dc62c4d1f8b4e9d4617b8423dde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Wall_Full.obj using Guid(e706dc62c4d1f8b4e9d4617b8423dde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e751e0c923153279f69c3982009911') in 0.073229 seconds
+  Import took 0.075584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Rug_Rectangle.obj
+  artifactKey: Guid(2d61cb44cc8b5064e98c19dcec88dae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Rug_Rectangle.obj using Guid(2d61cb44cc8b5064e98c19dcec88dae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6985447a94f5d0ee582ad4b9d9a4539') in 0.032529 seconds
+  Import took 0.034867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Cabinet_End.obj
+  artifactKey: Guid(e1f5be94c0f2e704da8ab326aa725961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Cabinet_End.obj using Guid(e1f5be94c0f2e704da8ab326aa725961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042cd6e4b827b3d250047ece816f6449') in 0.072567 seconds
+  Import took 0.074732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Rug_Square.obj
+  artifactKey: Guid(771682234ebe98a4d9ab8cf8f44f6f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Rug_Square.obj using Guid(771682234ebe98a4d9ab8cf8f44f6f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207c88e55d821c7ed0c144d6fc6fe59e') in 0.026669 seconds
+  Import took 0.028729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Meshes/Models/Structure_Balcony_4_Edges.obj
+  artifactKey: Guid(d84e565bc8fb2324ebdc97099b1ffe68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Balcony_4_Edges.obj using Guid(d84e565bc8fb2324ebdc97099b1ffe68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2182818194e20089b8fa1650a82ed7cf') in 0.026934 seconds
+  Import took 0.029000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Bar_Center.obj
+  artifactKey: Guid(e88b3db8d58cd0547b7d5a11e575de86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Bar_Center.obj using Guid(e88b3db8d58cd0547b7d5a11e575de86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce6e04538692266a8038e71cc2b06c7') in 0.023868 seconds
+  Import took 0.025726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Cabinet_Full.obj
+  artifactKey: Guid(7c2e0f845c36dcf4092757384b244c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Cabinet_Full.obj using Guid(7c2e0f845c36dcf4092757384b244c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfad08ab0762c89079275eefec52c57') in 0.097364 seconds
+  Import took 0.099459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Meshes/Models/Prop_Kitchen_Bar_Stool.obj
+  artifactKey: Guid(eaadacc6a4249224f9a48bc9b8fc12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Kitchen_Bar_Stool.obj using Guid(eaadacc6a4249224f9a48bc9b8fc12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fcd8004f3a4d3ef4034bfac50e593c') in 0.024153 seconds
+  Import took 0.026050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj
+  artifactKey: Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj using Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203e2b94af67ab63034b5eb58a546f48') in 0.050179 seconds
+  Import took 0.052113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Cabinet_Sink.obj
+  artifactKey: Guid(de903956c2df76b48a2e2bbd7234bd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Cabinet_Sink.obj using Guid(de903956c2df76b48a2e2bbd7234bd5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dd1e2235ddd171fef2d60635d5bb7b') in 0.104903 seconds
+  Import took 0.106964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Meshes/Models/Structure_Exterior_Wall_Corner.obj
+  artifactKey: Guid(d30c0eb8dd30a3441b7b800b0736435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Exterior_Wall_Corner.obj using Guid(d30c0eb8dd30a3441b7b800b0736435c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3439c7fab7bbfac5afbdcc6848aef0a') in 0.025849 seconds
+  Import took 0.027821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Cabinet_Half.obj
+  artifactKey: Guid(d7900d753e70cf445aa984dad985f60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Cabinet_Half.obj using Guid(d7900d753e70cf445aa984dad985f60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7880c2fbd40d5a43e46d2e4e56472a5a') in 0.063067 seconds
+  Import took 0.064992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Meshes/Models/Prop_Kitchen_Trashcan.obj
+  artifactKey: Guid(0208c977229642b4da9856fe85814e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Kitchen_Trashcan.obj using Guid(0208c977229642b4da9856fe85814e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816fedb0a386f12d7d6ec2ef478b7fc6') in 0.032197 seconds
+  Import took 0.034069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Sink.obj
+  artifactKey: Guid(fdf63cd7bef152640967d401acbb20bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Sink.obj using Guid(fdf63cd7bef152640967d401acbb20bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda99c56ea1fe6ec2fe7f2faa7baf02e') in 0.071126 seconds
+  Import took 0.073159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Rug_Circle.obj
+  artifactKey: Guid(f2db6e4a42e9818439e812a7c87b6323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Rug_Circle.obj using Guid(f2db6e4a42e9818439e812a7c87b6323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8eb6d6b1d80a7d89df7bbbc3d83a32') in 0.024959 seconds
+  Import took 0.026949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Meshes/Models/Prop_Kitchen_Microwave.obj
+  artifactKey: Guid(6c80911a7b5ba9f41a264a846115f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Kitchen_Microwave.obj using Guid(6c80911a7b5ba9f41a264a846115f1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04678fcd5d14e9ad34934aef9a2df1b3') in 0.033676 seconds
+  Import took 0.035701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Corner.obj
+  artifactKey: Guid(76cddd8dd536b0140af46c471b0f3d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Corner.obj using Guid(76cddd8dd536b0140af46c471b0f3d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25920db7e373478b42344be869e683d9') in 0.066424 seconds
+  Import took 0.068430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Ceiling_Light_Large.obj
+  artifactKey: Guid(0ef0aa5c06f809748957f49919067676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Ceiling_Light_Large.obj using Guid(0ef0aa5c06f809748957f49919067676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fe41d19c0e6b75b07b935f542ea178') in 0.034120 seconds
+  Import took 0.036114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Meshes/Models/Structure_Bathroom_Tile_Wall_Corner.obj
+  artifactKey: Guid(5d413ab3b2b5cc54986087c0ae3a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Bathroom_Tile_Wall_Corner.obj using Guid(5d413ab3b2b5cc54986087c0ae3a87f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f789ef606a51f3574d43e9b62bd43b40') in 0.023950 seconds
+  Import took 0.025933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Bar_Corner_Inner.obj
+  artifactKey: Guid(47037a722fce1e1498d833c98a15f070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Bar_Corner_Inner.obj using Guid(47037a722fce1e1498d833c98a15f070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4b08cc17f6fb04124fabc9826444d1') in 0.048463 seconds
+  Import took 0.050417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Edge.obj
+  artifactKey: Guid(1af67415fa637044eb4440afab29e09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Kitchen_Cabinet_Base_Edge.obj using Guid(1af67415fa637044eb4440afab29e09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d9a852b69682f239073ef02dd401de') in 0.022321 seconds
+  Import took 0.024224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_6.obj
+  artifactKey: Guid(f55a9e0bd67d1b8498594fc24b90ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_6.obj using Guid(f55a9e0bd67d1b8498594fc24b90ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096b907f05ca36065355336acb8ceeab') in 0.209722 seconds
+  Import took 0.212981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Picture_Square_Small.obj
+  artifactKey: Guid(94def2549c49dcc419b951a5ab4b6a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Picture_Square_Small.obj using Guid(94def2549c49dcc419b951a5ab4b6a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f79bab231ffab9f389d5d3b919c2780') in 0.039955 seconds
+  Import took 0.042461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_6.obj
+  artifactKey: Guid(f55a9e0bd67d1b8498594fc24b90ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Misc_Ceiling_Fan_6.obj using Guid(f55a9e0bd67d1b8498594fc24b90ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096b907f05ca36065355336acb8ceeab') in 0.217315 seconds
+  Import took 0.219868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Meshes/Models/Structure_Ceiling_Beam_Angled_Offset.obj
+  artifactKey: Guid(5f500e5a328bde4478e24c80d233d063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Ceiling_Beam_Angled_Offset.obj using Guid(5f500e5a328bde4478e24c80d233d063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e5ade45dd86cef8ddaf27c355ad1d1') in 0.023955 seconds
+  Import took 0.026150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004607 seconds.
+  path: Assets/Meshes/Models/Structure_Ceiling_Beam_Angled_Offset.obj
+  artifactKey: Guid(5f500e5a328bde4478e24c80d233d063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Ceiling_Beam_Angled_Offset.obj using Guid(5f500e5a328bde4478e24c80d233d063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e5ade45dd86cef8ddaf27c355ad1d1') in 0.020082 seconds
+  Import took 0.022225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 467.662521 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(dd6be9841e21cb041bc236eca8882e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(dd6be9841e21cb041bc236eca8882e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0461b9436c42dbdf91d7c99cc421377a') in 0.009459 seconds
+  Import took 0.012356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.353090 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_basecolor.jpg
+  artifactKey: Guid(1506a9b92f81c964e8346161fb0a70b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_basecolor.jpg using Guid(1506a9b92f81c964e8346161fb0a70b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2b67993baf55a00da9ad264ba4f429') in 0.057099 seconds
+  Import took 0.059781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Textures/Plastic_Rough_001_normal.jpg
+  artifactKey: Guid(834ea7eccbecae04dac873c2427c8913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_normal.jpg using Guid(834ea7eccbecae04dac873c2427c8913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c2b4ebb7d1727e26c1712490dfd59b') in 0.013062 seconds
+  Import took 0.015154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_normal.jpg
+  artifactKey: Guid(c8b7456e5d3e37045b4e2f928a1d6f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_normal.jpg using Guid(c8b7456e5d3e37045b4e2f928a1d6f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce542da9666eef222dff173c3b66f8f') in 0.014225 seconds
+  Import took 0.016229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Textures/Wood_Floor_009_basecolor.jpg
+  artifactKey: Guid(38aebd82c8ad23948b2432e47b791f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_basecolor.jpg using Guid(38aebd82c8ad23948b2432e47b791f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee505f072c137de71019668b22adf0a') in 0.012779 seconds
+  Import took 0.014939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Textures/Stone_Column_001_roughness.jpg
+  artifactKey: Guid(544e150c7bc77984cafcb546dbcf5692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stone_Column_001_roughness.jpg using Guid(544e150c7bc77984cafcb546dbcf5692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a35093d4a7939f297f691330a6f187') in 0.016613 seconds
+  Import took 0.018686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_basecolor.jpg
+  artifactKey: Guid(7150263b41ed22744881cf562280d620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_basecolor.jpg using Guid(7150263b41ed22744881cf562280d620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '835c6dad310779728997ef44afca19e6') in 0.012176 seconds
+  Import took 0.014186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.108690 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(fcfba087ba296cc4d8a0f3a85e1f5ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(fcfba087ba296cc4d8a0f3a85e1f5ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50deaf6291b63b146cd3baf4ca5a1854') in 0.008450 seconds
+  Import took 0.011146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.925340 seconds.
+  path: Assets/Materials/Sofa.mat
+  artifactKey: Guid(8fcbb5985910de740aca5803efcc1318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sofa.mat using Guid(8fcbb5985910de740aca5803efcc1318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69676daf1012c3efccd478fa6c096207') in 0.220899 seconds
+  Import took 0.223350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 510.327877 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(8c2f5f62d636648498eff794dc7dfe9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(8c2f5f62d636648498eff794dc7dfe9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b951183a536465d76ae649343f79ada') in 0.023498 seconds
+  Import took 0.025992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.825268 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_ambientOcclusion.jpg
+  artifactKey: Guid(d4ffdf54f1e5b174b9fae722c5f9b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_ambientOcclusion.jpg using Guid(d4ffdf54f1e5b174b9fae722c5f9b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59db3be762690cfc4a7b49f6ba94ede7') in 0.012969 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_opacity.jpg
+  artifactKey: Guid(d4dc829efad61fa4c9f321fa52daa74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_opacity.jpg using Guid(d4dc829efad61fa4c9f321fa52daa74f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5e07d2d854001216ce28a68cb52858') in 0.014458 seconds
+  Import took 0.016885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_roughness.jpg
+  artifactKey: Guid(74b9422a0d432d747859c490d61d0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_roughness.jpg using Guid(74b9422a0d432d747859c490d61d0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c27d2b8eb37bd93a70695f8890e0854') in 0.016484 seconds
+  Import took 0.018361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_basecolor.jpg
+  artifactKey: Guid(2d32573299330014897413781ca94c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_basecolor.jpg using Guid(2d32573299330014897413781ca94c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6452365edd4f18a77ff1ee113a29c2') in 0.012962 seconds
+  Import took 0.015201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_height.png
+  artifactKey: Guid(ecf9dd9e01d35604dae1dc4ecb18da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_height.png using Guid(ecf9dd9e01d35604dae1dc4ecb18da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35254d56f17f2cfb480cea0c386c164') in 0.017727 seconds
+  Import took 0.019677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_normal.jpg
+  artifactKey: Guid(5ee5f27643e4c40458ee677173f7e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_normal.jpg using Guid(5ee5f27643e4c40458ee677173f7e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746624f16a4bc9bb3b7e604adb4f0c43') in 0.011385 seconds
+  Import took 0.013777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Material_1335.jpg
+  artifactKey: Guid(e7f30ad702ce11b46b24638c0f291270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Material_1335.jpg using Guid(e7f30ad702ce11b46b24638c0f291270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5768461ad0e1d4349e3cf4d1515c0ec5') in 0.014865 seconds
+  Import took 0.016812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.470344 seconds.
+  path: Assets/Materials/Sofa.mat
+  artifactKey: Guid(8c2f5f62d636648498eff794dc7dfe9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sofa.mat using Guid(8c2f5f62d636648498eff794dc7dfe9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544712699e2383977169c3d5b7adbe40') in 0.026469 seconds
+  Import took 0.029063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.510117 seconds.
+  path: Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_normal.jpg
+  artifactKey: Guid(5ee5f27643e4c40458ee677173f7e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Leather_Diamond_Patches_001_SD/Leather_Diamond_Patches_001_normal.jpg using Guid(5ee5f27643e4c40458ee677173f7e8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c7e3c31e5f22e20b8aff5c761a1d4b') in 0.029439 seconds
+  Import took 0.031992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.695655 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(1b7b37584684f9f489432aa3a3cd928d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(1b7b37584684f9f489432aa3a3cd928d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77684107dbdcf17efd56ccab16586a2') in 0.007568 seconds
+  Import took 0.010273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.322628 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Doorway.obj
+  artifactKey: Guid(5310f08a4659e0244aca92497cc05720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Doorway.obj using Guid(5310f08a4659e0244aca92497cc05720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301d472e5fae8eca476ee6c93cbef547') in 0.032586 seconds
+  Import took 0.035749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Top.obj
+  artifactKey: Guid(afb87cc9efaccab458c156da7a2a37e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Top.obj using Guid(afb87cc9efaccab458c156da7a2a37e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb3148ab658b2d2f5c9cb22e9aa1aac') in 0.026563 seconds
+  Import took 0.030306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Doorway.obj
+  artifactKey: Guid(5310f08a4659e0244aca92497cc05720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Doorway.obj using Guid(5310f08a4659e0244aca92497cc05720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301d472e5fae8eca476ee6c93cbef547') in 0.024510 seconds
+  Import took 0.026672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Top.obj
+  artifactKey: Guid(afb87cc9efaccab458c156da7a2a37e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Top.obj using Guid(afb87cc9efaccab458c156da7a2a37e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb3148ab658b2d2f5c9cb22e9aa1aac') in 0.021486 seconds
+  Import took 0.023753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025463 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Straight.obj
+  artifactKey: Guid(358925c93fffef9429e2bcf253fd5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Straight.obj using Guid(358925c93fffef9429e2bcf253fd5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e082a5a40541a60d5188529bcb7d59f2') in 0.024164 seconds
+  Import took 0.027339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Small_Base.obj
+  artifactKey: Guid(6facdb689c421cb44b795ce911bd84ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Small_Base.obj using Guid(6facdb689c421cb44b795ce911bd84ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d140d6fc2b4a78e56dc06b1fdc3d5d') in 0.023300 seconds
+  Import took 0.025360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Door.obj
+  artifactKey: Guid(915220ec27f79ec4cb01524ca800c1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Door.obj using Guid(915220ec27f79ec4cb01524ca800c1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c828a8de2e7b29c09242a30655ea514d') in 0.070598 seconds
+  Import took 0.072598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Straight.obj
+  artifactKey: Guid(358925c93fffef9429e2bcf253fd5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Railing_Rising_Straight.obj using Guid(358925c93fffef9429e2bcf253fd5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e082a5a40541a60d5188529bcb7d59f2') in 0.022855 seconds
+  Import took 0.024717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Small_Top.obj
+  artifactKey: Guid(6f06745065517a3499afb6c3714dbd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Small_Top.obj using Guid(6f06745065517a3499afb6c3714dbd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727f18be94b87b7092fbec697c50bddd') in 0.027474 seconds
+  Import took 0.029965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Large_Main.obj
+  artifactKey: Guid(c2973222da092714bbfa0674a3b29470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Large_Main.obj using Guid(c2973222da092714bbfa0674a3b29470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d962242e9da6f6958157eb42952c7c1') in 0.024721 seconds
+  Import took 0.027149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Large_Top.obj
+  artifactKey: Guid(d9421f898a527cb45a7406306d11caf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Large_Top.obj using Guid(d9421f898a527cb45a7406306d11caf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44233a2b0967d7f379e8cf36a03e41b') in 0.024719 seconds
+  Import took 0.027094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Straight.obj
+  artifactKey: Guid(a8a534a43c34f0c4badb1c6a961fee2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Straight.obj using Guid(a8a534a43c34f0c4badb1c6a961fee2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f174bf7be25ddd1915f0afd8b50c5e') in 0.027524 seconds
+  Import took 0.029741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Large_Base.obj
+  artifactKey: Guid(ec042ff48c1b31d49a1eeb2d05454fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Large_Base.obj using Guid(ec042ff48c1b31d49a1eeb2d05454fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e67217d339751c1ca28b7381a1f7da') in 0.028294 seconds
+  Import took 0.030802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Meshes/Models/Structure_Stairs_Straight.obj
+  artifactKey: Guid(a8a534a43c34f0c4badb1c6a961fee2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Stairs_Straight.obj using Guid(a8a534a43c34f0c4badb1c6a961fee2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f174bf7be25ddd1915f0afd8b50c5e') in 0.025563 seconds
+  Import took 0.027721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Main.obj
+  artifactKey: Guid(a69ce3415b8a743439b229213334d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Main.obj using Guid(a69ce3415b8a743439b229213334d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5f61b95a1c561f1fd9d84b98a34151') in 0.024526 seconds
+  Import took 0.026430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Large_Base.obj
+  artifactKey: Guid(ec042ff48c1b31d49a1eeb2d05454fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Large_Base.obj using Guid(ec042ff48c1b31d49a1eeb2d05454fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e67217d339751c1ca28b7381a1f7da') in 0.019344 seconds
+  Import took 0.021267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Curved_Small_Main.obj
+  artifactKey: Guid(c907fa875bebe69428929ad636fb184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Curved_Small_Main.obj using Guid(c907fa875bebe69428929ad636fb184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534df14e71248f8144f02e16d92a3d4e') in 0.021207 seconds
+  Import took 0.023073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.338761 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Main.obj
+  artifactKey: Guid(a69ce3415b8a743439b229213334d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Main.obj using Guid(a69ce3415b8a743439b229213334d8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5f61b95a1c561f1fd9d84b98a34151') in 0.025940 seconds
+  Import took 0.028625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.341138 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Base.obj
+  artifactKey: Guid(23efd0ff1f71f874d9479e6abc56d867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Base.obj using Guid(23efd0ff1f71f874d9479e6abc56d867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86de20f90bff0aede7d52add8eed90b2') in 0.029458 seconds
+  Import took 0.033567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Straight_Main.obj
+  artifactKey: Guid(df61e813f55a7254c8f3d4d1f07d6815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Straight_Main.obj using Guid(df61e813f55a7254c8f3d4d1f07d6815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de366a5e24e4f39413773695c6de02c9') in 0.028848 seconds
+  Import took 0.031331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Straight_Top.obj
+  artifactKey: Guid(68a412b192ffe824ebf462ca825ca1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Straight_Top.obj using Guid(68a412b192ffe824ebf462ca825ca1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cfb143cfb1b5118d45651523b315f8') in 0.030171 seconds
+  Import took 0.032673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Straight_Main.obj
+  artifactKey: Guid(df61e813f55a7254c8f3d4d1f07d6815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Straight_Main.obj using Guid(df61e813f55a7254c8f3d4d1f07d6815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de366a5e24e4f39413773695c6de02c9') in 0.024818 seconds
+  Import took 0.026970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Straight_Top.obj
+  artifactKey: Guid(68a412b192ffe824ebf462ca825ca1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Straight_Top.obj using Guid(68a412b192ffe824ebf462ca825ca1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cfb143cfb1b5118d45651523b315f8') in 0.026189 seconds
+  Import took 0.028460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Straight_Base.obj
+  artifactKey: Guid(301da9dd952c23c49ba78ed820bca9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Straight_Base.obj using Guid(301da9dd952c23c49ba78ed820bca9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560c68f7821a7500aade14475e2e3315') in 0.024458 seconds
+  Import took 0.026553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Meshes/Models/Structure_Wall_Inner_Joint_Base.obj
+  artifactKey: Guid(23efd0ff1f71f874d9479e6abc56d867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Structure_Wall_Inner_Joint_Base.obj using Guid(23efd0ff1f71f874d9479e6abc56d867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86de20f90bff0aede7d52add8eed90b2') in 0.022581 seconds
+  Import took 0.024581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.283874 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj
+  artifactKey: Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj using Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d14a5ad9845a0bd1e79945db904f96') in 0.070710 seconds
+  Import took 0.073035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.038416 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj
+  artifactKey: Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Corner.obj using Guid(935e802260f66fd479c98ffc1a5a1aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238ea816861c9a95e71961e95acaf053') in 0.065085 seconds
+  Import took 0.067331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.731374 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Center.obj
+  artifactKey: Guid(3b1b47fe1f8505f47a12335cfb28cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_Modular_Couch_Center.obj using Guid(3b1b47fe1f8505f47a12335cfb28cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24007f38410fdcde983ad13c3f709cf5') in 0.039223 seconds
+  Import took 0.041897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.856317 seconds.
+  path: Assets/Materials/podłoga.mat
+  artifactKey: Guid(7f87cbe333340a74d9dc51595cb5a88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/podłoga.mat using Guid(7f87cbe333340a74d9dc51595cb5a88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4820012359c07eb8a19e5bbbedabc169') in 0.017287 seconds
+  Import took 0.019902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.593339 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Material_1799.jpg
+  artifactKey: Guid(a7f7dc2e56eae794b913658fb203b678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Material_1799.jpg using Guid(a7f7dc2e56eae794b913658fb203b678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01945e56d277c6c2d58bc3b3dcf290f9') in 0.011820 seconds
+  Import took 0.014023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_height.png
+  artifactKey: Guid(a476197a4034d3d4aaacb072d4c604ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_height.png using Guid(a476197a4034d3d4aaacb072d4c604ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3782765a97a12cedb5b1ebaccb7515f') in 0.012518 seconds
+  Import took 0.014940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_roughness.jpg
+  artifactKey: Guid(8dd19a5d75d2ace4c92d1913d17de13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_roughness.jpg using Guid(8dd19a5d75d2ace4c92d1913d17de13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9a6a6282dd282934601afd72fccd55') in 0.015095 seconds
+  Import took 0.017790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_normal.jpg
+  artifactKey: Guid(9dd82dc9186628e45afdbd5c96c3aab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_normal.jpg using Guid(9dd82dc9186628e45afdbd5c96c3aab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f93d9e5bc6f4f80b4b60ed09bdc0db7') in 0.015112 seconds
+  Import took 0.017639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_ambientOcclusion.jpg
+  artifactKey: Guid(416e7ebcaf4ec9148800a2b5d1749cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_ambientOcclusion.jpg using Guid(416e7ebcaf4ec9148800a2b5d1749cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d140ba91e37d4c37389d2b6d507af4') in 0.013364 seconds
+  Import took 0.015429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_basecolor.jpg
+  artifactKey: Guid(5fea39bfc034be5458c1407a51f0f7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_basecolor.jpg using Guid(5fea39bfc034be5458c1407a51f0f7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c012aaf5fdff5f0efbc664ce819261') in 0.010583 seconds
+  Import took 0.013242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.408547 seconds.
+  path: Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_normal.jpg
+  artifactKey: Guid(9dd82dc9186628e45afdbd5c96c3aab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Floor_009_SD/Wood_Floor_009_normal.jpg using Guid(9dd82dc9186628e45afdbd5c96c3aab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3322bcc47ea80b1c9ff212317fc5e0b7') in 0.023202 seconds
+  Import took 0.025647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.935739 seconds.
+  path: Assets/Materials/stone.mat
+  artifactKey: Guid(dff5de88755af9b49b52128f0e2ab34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/stone.mat using Guid(dff5de88755af9b49b52128f0e2ab34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23b2dabe5fb2a79586a009c404b33ce') in 0.021515 seconds
+  Import took 0.024133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.907414 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Material_1769.jpg
+  artifactKey: Guid(6290ba505e89967468d775fb7971bdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Material_1769.jpg using Guid(6290ba505e89967468d775fb7971bdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa7d2ba44e733db3bac6cce96fda214') in 0.012890 seconds
+  Import took 0.015725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_basecolor.jpg
+  artifactKey: Guid(2d78ad7105f8d99458080c2da9ad948b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_basecolor.jpg using Guid(2d78ad7105f8d99458080c2da9ad948b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011f960788323c8e6ab62d612968baab') in 0.014700 seconds
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_normal.jpg
+  artifactKey: Guid(309f1039276db6e419891f18f7997570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_normal.jpg using Guid(309f1039276db6e419891f18f7997570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76567a8b6a85155ed542f6398b463a2') in 0.016048 seconds
+  Import took 0.019168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_roughness.jpg
+  artifactKey: Guid(4fee9b65bf706ab47984f0d7e695e6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_roughness.jpg using Guid(4fee9b65bf706ab47984f0d7e695e6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd7b196375cc8db5a078c5cf11f9475') in 0.018771 seconds
+  Import took 0.020713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_ambientOcclusion.jpg
+  artifactKey: Guid(be6b9e314e2742146bb68731899cb249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_ambientOcclusion.jpg using Guid(be6b9e314e2742146bb68731899cb249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9546fc444cd8a83bbb6de7ac31b0cdde') in 0.015583 seconds
+  Import took 0.018101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_height.png
+  artifactKey: Guid(70aa6eb6dad394c41a36ba01c8d62dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_height.png using Guid(70aa6eb6dad394c41a36ba01c8d62dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa497e3f8beb11ba795a715c920338f5') in 0.014826 seconds
+  Import took 0.017329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.465796 seconds.
+  path: Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_normal.jpg
+  artifactKey: Guid(309f1039276db6e419891f18f7997570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wall_Stone_019_SD/Wall_Stone_019_normal.jpg using Guid(309f1039276db6e419891f18f7997570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03337835444fed25e303a75f8b32f6e') in 0.013862 seconds
+  Import took 0.016388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.180120 seconds.
+  path: Assets/Materials/wood.mat
+  artifactKey: Guid(3e14211e7678fec49a557d6515b06ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wood.mat using Guid(3e14211e7678fec49a557d6515b06ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93283f89798b38f8296d42dd8b85a57') in 0.023609 seconds
+  Import took 0.026097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.128466 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Material_1766.jpg
+  artifactKey: Guid(16d7895a3a5e62049a3601cf96f874b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Material_1766.jpg using Guid(16d7895a3a5e62049a3601cf96f874b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52a3e18fcf9caead13b401309e702cb') in 0.011238 seconds
+  Import took 0.013932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_height.png
+  artifactKey: Guid(e3db3f1d3453a874886af3b8ff806573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_height.png using Guid(e3db3f1d3453a874886af3b8ff806573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5319af1409e5cdd98a7312b2d095ac5') in 0.014788 seconds
+  Import took 0.016782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_basecolor.jpg
+  artifactKey: Guid(16f001d640afd8e4ea5ac16c6eb39c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_basecolor.jpg using Guid(16f001d640afd8e4ea5ac16c6eb39c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b192dc77c98c3076cef12c1a3eede7ed') in 0.016563 seconds
+  Import took 0.018745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_normal.jpg
+  artifactKey: Guid(adf72f82f26325846a270eea61873fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_normal.jpg using Guid(adf72f82f26325846a270eea61873fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252a2fbbe9088639e5e1c08fa844ed41') in 0.017383 seconds
+  Import took 0.019314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_roughness.jpg
+  artifactKey: Guid(817293c80e6f00940a4fb930c4cd5aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_roughness.jpg using Guid(817293c80e6f00940a4fb930c4cd5aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0748b63863a99c01db401cfbf297e46') in 0.014377 seconds
+  Import took 0.016635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_ambientOcclusion.jpg
+  artifactKey: Guid(e5a40b2c7785d7149a1f3441f1caf3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_ambientOcclusion.jpg using Guid(e5a40b2c7785d7149a1f3441f1caf3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecde4214c97b54bf1431a40744bb2eb8') in 0.023313 seconds
+  Import took 0.025394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001950 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_ambientOcclusion.jpg
+  artifactKey: Guid(e5a40b2c7785d7149a1f3441f1caf3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_ambientOcclusion.jpg using Guid(e5a40b2c7785d7149a1f3441f1caf3d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecde4214c97b54bf1431a40744bb2eb8') in 0.007785 seconds
+  Import took 0.009802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.935911 seconds.
+  path: Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_normal.jpg
+  artifactKey: Guid(adf72f82f26325846a270eea61873fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Wood_Plywood_Front_001_SD/Wood_Plywood_Front_001_normal.jpg using Guid(adf72f82f26325846a270eea61873fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa14d6e6499d41e1902d654beea3eae9') in 0.012276 seconds
+  Import took 0.015068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.573605 seconds.
+  path: Assets/Materials/Plastic.mat
+  artifactKey: Guid(e6c824ac042bd5241bbe037b4719fcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plastic.mat using Guid(e6c824ac042bd5241bbe037b4719fcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21868ec06f0327c051df4fd3f510989') in 0.028382 seconds
+  Import took 0.031934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.641153 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Material_1657.jpg
+  artifactKey: Guid(424daf2096e49564898cc41cea769636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Material_1657.jpg using Guid(424daf2096e49564898cc41cea769636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7722e20e2f452685bbc389bb9c9fad2') in 0.012663 seconds
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_roughness.jpg
+  artifactKey: Guid(7573f04884c4eb64c9b1038e280a4cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_roughness.jpg using Guid(7573f04884c4eb64c9b1038e280a4cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18cbbc2d8ba0a304136438c70042cd16') in 0.013651 seconds
+  Import took 0.015668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_normal.jpg
+  artifactKey: Guid(08b52f194f30aef4a8c884ff5cebca3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_normal.jpg using Guid(08b52f194f30aef4a8c884ff5cebca3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9d7eaa592f1502d35bc445ca3eebf6') in 0.016819 seconds
+  Import took 0.018783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_height.png
+  artifactKey: Guid(c34a87db0d665ff4aa0e88c9f629f6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_height.png using Guid(c34a87db0d665ff4aa0e88c9f629f6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc4f05fb9c0d9a9f10069907d0b30f4') in 0.019414 seconds
+  Import took 0.021619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_basecolor.jpg
+  artifactKey: Guid(1706c154c7af8f0479b52d6a8fe3b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_basecolor.jpg using Guid(1706c154c7af8f0479b52d6a8fe3b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a981ebea6fec63b996bb94a5e9de56') in 0.015496 seconds
+  Import took 0.017802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_ambientOcclusion.jpg
+  artifactKey: Guid(5c69dbf4bdcef2d4d88268199fb2fd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_ambientOcclusion.jpg using Guid(5c69dbf4bdcef2d4d88268199fb2fd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6f35d6beab6218b9d5223c169db236') in 0.014822 seconds
+  Import took 0.016782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.869566 seconds.
+  path: Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_normal.jpg
+  artifactKey: Guid(08b52f194f30aef4a8c884ff5cebca3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plastic_Rough_001_SD/Plastic_Rough_001_normal.jpg using Guid(08b52f194f30aef4a8c884ff5cebca3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2e913dd5088946c329da7310f042d0') in 0.014614 seconds
+  Import took 0.016939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.763346 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj
+  artifactKey: Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj using Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232ec8f7cf7bc254e0b487fcf3e6729e') in 0.058593 seconds
+  Import took 0.061357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.056327 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj
+  artifactKey: Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj using Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230412f3c086144a888b9feef29140b7') in 0.053547 seconds
+  Import took 0.055747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.656198 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj
+  artifactKey: Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj using Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17844e6e12998153ed4f06702f6c20f9') in 0.050169 seconds
+  Import took 0.052374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.113945 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj
+  artifactKey: Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV_Stand.obj using Guid(907a2c9b902cdbe48ab50e655593a03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2d8f4f7f44c2d8d8ab031cbf5367ff') in 0.045019 seconds
+  Import took 0.047200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.189635 seconds.
+  path: Assets/Meshes/Models/Prop_Living_Room_TV.obj
+  artifactKey: Guid(f1bee9e9effa7f045873ba991629894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/Models/Prop_Living_Room_TV.obj using Guid(f1bee9e9effa7f045873ba991629894f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1205a81c787e272c7c5b6b54b4d2ce') in 0.030944 seconds
+  Import took 0.033428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 478.968561 seconds.
+  path: Assets/Materials/braicks.mat
+  artifactKey: Guid(f15b0e289f942574cad0608196b7e6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/braicks.mat using Guid(f15b0e289f942574cad0608196b7e6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51924c33572bd4cf2bc07e54557855a') in 0.021880 seconds
+  Import took 0.060096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.151880 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Material_1794.jpg
+  artifactKey: Guid(4678d1368d827334696a7857ebbe7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Material_1794.jpg using Guid(4678d1368d827334696a7857ebbe7b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df79959468ef1ff3ee253e37ee618eb') in 0.011769 seconds
+  Import took 0.014434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_normal.jpg
+  artifactKey: Guid(7ad20375d6d637e4b8917d00866086d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_normal.jpg using Guid(7ad20375d6d637e4b8917d00866086d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3579c33898527c3ae2634bd4099554a2') in 0.016334 seconds
+  Import took 0.018449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000794 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_ambientOcclusion.jpg
+  artifactKey: Guid(b8844887e5a00534b854919cca62b1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_ambientOcclusion.jpg using Guid(b8844887e5a00534b854919cca62b1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8855db915ce99562cdf130c4eab7da46') in 0.015887 seconds
+  Import took 0.018605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_basecolor.jpg
+  artifactKey: Guid(5ef83d8e933a9074a849d3751407d938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_basecolor.jpg using Guid(5ef83d8e933a9074a849d3751407d938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eeeadcc639cf72942c9524c0f8da032') in 0.014459 seconds
+  Import took 0.016789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_height.png
+  artifactKey: Guid(d3635e7fb47469244abdde5f38cde1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_height.png using Guid(d3635e7fb47469244abdde5f38cde1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39cb62eb4cf67eb6aef14c40b247bb2') in 0.011870 seconds
+  Import took 0.014373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_roughness.jpg
+  artifactKey: Guid(2cee0661ea613c94d94b080ebd7f688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_roughness.jpg using Guid(2cee0661ea613c94d94b080ebd7f688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299baadf6ead8ffe831399684e62708c') in 0.013392 seconds
+  Import took 0.015461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_height.png
+  artifactKey: Guid(d3635e7fb47469244abdde5f38cde1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_height.png using Guid(d3635e7fb47469244abdde5f38cde1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39cb62eb4cf67eb6aef14c40b247bb2') in 0.013095 seconds
+  Import took 0.015164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_roughness.jpg
+  artifactKey: Guid(2cee0661ea613c94d94b080ebd7f688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_roughness.jpg using Guid(2cee0661ea613c94d94b080ebd7f688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299baadf6ead8ffe831399684e62708c') in 0.012483 seconds
+  Import took 0.015297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.886063 seconds.
+  path: Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_normal.jpg
+  artifactKey: Guid(7ad20375d6d637e4b8917d00866086d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized_Bricks_001_SD/Stylized_Bricks_001_normal.jpg using Guid(7ad20375d6d637e4b8917d00866086d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743f700a581cd6742d6b9f204e765a95') in 0.014329 seconds
+  Import took 0.017445 seconds .
+
